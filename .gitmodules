@@ -1,0 +1,3 @@
+[submodule "imadyuui/assets/submodules"]
+	path = imadyuui/assets/submodules
+	url = https://github.com/imadyTech/imadyEvent.git
